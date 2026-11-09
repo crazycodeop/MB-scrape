@@ -60,3 +60,7 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
